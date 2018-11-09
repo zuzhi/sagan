@@ -13,7 +13,7 @@ var paths = {
         'src/jspm_packages/github/FortAwesome/font-awesome@3.2.1/css/font-awesome.min.css'
     ],
     assets: ['src/img*/**', 'src/*.txt', 'src/*.html', 'src/font*/**', 'src/css*/filterable-list.css',
-    'src/config.js', 'src/jspm_packages*/system*', 'src/jspm_packages*/**/*.ttf', 'src/jspm_packages*/**/*.woff'],
+    'src/config.js', 'src/jspm_packages*/**', 'src/jspm_packages*/**/*.ttf', 'src/jspm_packages*/**/*.woff'],
     dest: './build/dist/'
 };
 

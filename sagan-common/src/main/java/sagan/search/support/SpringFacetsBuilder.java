@@ -3,7 +3,7 @@ package sagan.search.support;
 import java.util.ArrayList;
 import java.util.List;
 
-class SpringFacetsBuilder {
+public class SpringFacetsBuilder {
 
     private final List<SearchFacet> facets;
 
